@@ -1,4 +1,4 @@
-package com.Package.Lsp;
+package LSP;
 
 class Father {
     public void reduction(CharSequence seq) {

@@ -1,6 +1,4 @@
-package com.Package.Lsp;
-
-import com.Package.Lsp.Father;
+package LSP;
 
 class Son extends Father {
 
